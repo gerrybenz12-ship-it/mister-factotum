@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Nome Progetto" width="250">
+  <img src="assets/logo.png" alt="mister factotum" width="250">
 </p>
